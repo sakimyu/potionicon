@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "potion icon",
+        "name": "potion icon",
+        "uuid": "ea4074ba-fc57-4521-9b09-f32f192d88c8",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "potion icon",
+            "type": "resources",
+            "uuid": "82ba96d2-1852-409e-b7fb-8735e65a1608",
+            "version": [0, 0, 1]
+        }
+    ]
+}
